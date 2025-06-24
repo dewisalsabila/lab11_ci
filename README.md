@@ -1,6 +1,6 @@
 | Nama                    | NIM        | Kelas   | Matkul            |
 |-------------------------|------------|---------|-------------------|
-| Azzahra Nabiila          | 312310367 | TI.23.A4| Pemrograman Web 2 |
+| Dewi Salsabila          | 312310722 | TI.23.A4| Pemrograman Web 2 |
 
 Praktikum 1-6
 
